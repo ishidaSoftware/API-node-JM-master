@@ -1,6 +1,6 @@
-# MANUAL DE CONFIGURACION PARA LOS ENDPOINT
+## API-JM
 
-### Pasos para la configuracion de la base de datos y creacion de rutas:
+_Api desarrollada para Almacenes Juan Montero para consumir vistas creadas en Sql Server_
 ---
 * Ubicar el archivo `.ven` donde se encuentras las *Variables de entorno*, aqui se debe cambiar las credenciales dependiendo de la base de datos que se desee conectar:
 
