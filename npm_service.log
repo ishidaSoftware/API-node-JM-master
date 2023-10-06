@@ -1,0 +1,961 @@
+2023-07-03 09:26:14,110 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-03 09:26:24,329 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-03 09:26:24,329 - INFO - npm run dev output: el numero de elementos encontrados es:55725
+2023-07-03 09:26:25,454 - INFO - npm run dev output: Tiempo de consulta: 11401 ms
+2023-07-03 09:26:25,454 - INFO - npm run dev output: Uso de memoria: 339134608 bytes
+2023-07-03 13:02:25,387 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-03 13:02:35,262 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-03 13:02:35,262 - INFO - npm run dev output: el numero de elementos encontrados es:55992
+2023-07-03 13:02:36,512 - INFO - npm run dev output: Tiempo de consulta: 11186 ms
+2023-07-03 13:02:36,590 - INFO - npm run dev output: Uso de memoria: 343750456 bytes
+2023-07-03 19:13:15,766 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-03 19:13:23,047 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-03 19:13:23,047 - INFO - npm run dev output: el numero de elementos encontrados es:150592
+2023-07-03 19:13:24,234 - INFO - npm run dev output: Tiempo de consulta: 8526 ms
+2023-07-03 19:13:24,234 - INFO - npm run dev output: Uso de memoria: 187144760 bytes
+2023-07-03 19:49:23,667 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-03 19:49:29,464 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-03 19:49:29,464 - INFO - npm run dev output: el numero de elementos encontrados es:150592
+2023-07-03 19:49:30,604 - INFO - npm run dev output: Tiempo de consulta: 7036 ms
+2023-07-03 19:49:31,417 - INFO - npm run dev output: Uso de memoria: 186960048 bytes
+2023-07-04 09:13:37,272 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-04 09:13:43,397 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-04 09:13:43,397 - INFO - npm run dev output: el numero de elementos encontrados es:150609
+2023-07-04 09:13:44,522 - INFO - npm run dev output: Tiempo de consulta: 7301 ms
+2023-07-04 09:13:44,522 - INFO - npm run dev output: Uso de memoria: 187291488 bytes
+2023-07-04 09:27:09,324 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-04 09:27:15,356 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-04 09:27:15,356 - INFO - npm run dev output: el numero de elementos encontrados es:150631
+2023-07-04 09:27:16,528 - INFO - npm run dev output: Tiempo de consulta: 7267 ms
+2023-07-04 09:27:16,528 - INFO - npm run dev output: Uso de memoria: 187533808 bytes
+2023-07-04 15:10:43,832 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-04 15:10:50,955 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-04 15:10:50,955 - INFO - npm run dev output: el numero de elementos encontrados es:151147
+2023-07-04 15:10:52,221 - INFO - npm run dev output: Tiempo de consulta: 8427 ms
+2023-07-04 15:10:52,221 - INFO - npm run dev output: Uso de memoria: 187901328 bytes
+2023-07-04 18:26:38,061 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-04 18:26:47,233 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-04 18:26:47,233 - INFO - npm run dev output: el numero de elementos encontrados es:151712
+2023-07-04 18:26:48,451 - INFO - npm run dev output: Tiempo de consulta: 10436 ms
+2023-07-04 18:26:48,451 - INFO - npm run dev output: Uso de memoria: 187620696 bytes
+2023-07-04 18:45:07,471 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-04 18:45:13,096 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-04 18:45:13,096 - INFO - npm run dev output: el numero de elementos encontrados es:151712
+2023-07-04 18:45:14,205 - INFO - npm run dev output: Tiempo de consulta: 6777 ms
+2023-07-04 18:45:14,690 - INFO - npm run dev output: Uso de memoria: 188999560 bytes
+2023-07-04 19:06:47,354 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-04 19:06:53,338 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-04 19:06:53,338 - INFO - npm run dev output: el numero de elementos encontrados es:151712
+2023-07-04 19:06:54,494 - INFO - npm run dev output: Tiempo de consulta: 7175 ms
+2023-07-04 19:06:54,494 - INFO - npm run dev output: Uso de memoria: 188770408 bytes
+2023-07-06 09:55:29,489 - INFO - Npm Service started
+2023-07-06 09:55:32,676 - INFO - npm run dev output: 
+2023-07-06 09:55:32,676 - INFO - npm run dev output: > api-node-jm@1.0.0 dev
+2023-07-06 09:55:32,676 - INFO - npm run dev output: > nodemon src --exec babel-node src/index.js
+2023-07-06 09:55:32,676 - INFO - npm run dev output: 
+2023-07-06 09:55:33,286 - INFO - npm run dev output: [33m[nodemon] 2.0.22[39m
+2023-07-06 09:55:33,286 - INFO - npm run dev output: [33m[nodemon] to restart at any time, enter `rs`[39m
+2023-07-06 09:55:33,286 - INFO - npm run dev output: [33m[nodemon] watching path(s): *.*[39m
+2023-07-06 09:55:33,286 - INFO - npm run dev output: [33m[nodemon] watching extensions: js,mjs,json[39m
+2023-07-06 09:55:33,286 - INFO - npm run dev output: [32m[nodemon] starting `babel-node src src/index.js`[39m
+2023-07-06 09:55:37,161 - INFO - npm run dev output: server on port 4550
+2023-07-06 09:57:18,129 - INFO - npm run dev output: Tiempo de consulta: 15238 ms
+2023-07-06 09:57:18,129 - INFO - npm run dev output: Uso de memoria: 46440576 bytes
+2023-07-06 09:57:18,223 - INFO - npm run dev output: Tiempo de consulta: 6 ms
+2023-07-06 09:57:18,223 - INFO - npm run dev output: Uso de memoria: 46684688 bytes
+2023-07-06 09:57:49,979 - INFO - npm run dev output: Tiempo de consulta: 15013 ms
+2023-07-06 09:57:49,979 - INFO - npm run dev output: Uso de memoria: 47447064 bytes
+2023-07-06 09:58:09,270 - INFO - npm run dev output: Conexión a 2019 establecida!
+2023-07-06 09:58:15,661 - INFO - npm run dev output: Busqueda de items en la base 2019,
+2023-07-06 09:58:15,661 - INFO - npm run dev output: el numero de elementos encontrados es:4436
+2023-07-06 09:58:15,692 - INFO - npm run dev output: Tiempo de consulta: 8716 ms
+2023-07-06 09:58:15,692 - INFO - npm run dev output: Uso de memoria: 50479112 bytes
+2023-07-06 11:26:23,125 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-06 11:26:29,992 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-06 11:26:29,992 - INFO - npm run dev output: el numero de elementos encontrados es:153406
+2023-07-06 11:26:31,117 - INFO - npm run dev output: Tiempo de consulta: 8020 ms
+2023-07-06 11:26:31,117 - INFO - npm run dev output: Uso de memoria: 187527200 bytes
+2023-07-06 11:26:39,278 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-06 11:26:44,262 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-06 11:26:44,262 - INFO - npm run dev output: el numero de elementos encontrados es:153406
+2023-07-06 11:26:45,372 - INFO - npm run dev output: Tiempo de consulta: 6113 ms
+2023-07-06 11:26:45,372 - INFO - npm run dev output: Uso de memoria: 283804328 bytes
+2023-07-06 11:26:45,903 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-06 11:26:50,669 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-06 11:26:50,669 - INFO - npm run dev output: el numero de elementos encontrados es:153406
+2023-07-06 11:26:51,763 - INFO - npm run dev output: Tiempo de consulta: 5886 ms
+2023-07-06 11:26:51,763 - INFO - npm run dev output: Uso de memoria: 187049984 bytes
+2023-07-06 11:27:00,024 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-06 11:27:04,915 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-06 11:27:04,915 - INFO - npm run dev output: el numero de elementos encontrados es:153406
+2023-07-06 11:27:06,009 - INFO - npm run dev output: Tiempo de consulta: 6014 ms
+2023-07-06 11:27:06,009 - INFO - npm run dev output: Uso de memoria: 187014200 bytes
+2023-07-06 11:27:06,134 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-06 11:27:10,931 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-06 11:27:10,931 - INFO - npm run dev output: el numero de elementos encontrados es:153406
+2023-07-06 11:27:12,040 - INFO - npm run dev output: Tiempo de consulta: 5927 ms
+2023-07-06 11:27:12,040 - INFO - npm run dev output: Uso de memoria: 187171264 bytes
+2023-07-06 11:30:07,026 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-06 11:30:12,166 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-06 11:30:12,166 - INFO - npm run dev output: el numero de elementos encontrados es:153421
+2023-07-06 11:30:13,307 - INFO - npm run dev output: Tiempo de consulta: 6318 ms
+2023-07-06 11:30:13,307 - INFO - npm run dev output: Uso de memoria: 185562840 bytes
+2023-07-06 11:31:54,454 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-06 11:31:59,923 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-06 11:31:59,923 - INFO - npm run dev output: el numero de elementos encontrados es:153435
+2023-07-06 11:32:01,063 - INFO - npm run dev output: Tiempo de consulta: 6635 ms
+2023-07-06 11:32:01,063 - INFO - npm run dev output: Uso de memoria: 185454424 bytes
+2023-07-07 08:55:16,873 - INFO - Npm Service started
+2023-07-07 08:55:29,857 - INFO - npm run dev output: 
+2023-07-07 08:55:29,857 - INFO - npm run dev output: > api-node-jm@1.0.0 dev
+2023-07-07 08:55:29,857 - INFO - npm run dev output: > nodemon src --exec babel-node src/index.js
+2023-07-07 08:55:29,857 - INFO - npm run dev output: 
+2023-07-07 08:56:12,330 - INFO - npm run dev output: [33m[nodemon] 2.0.22[39m
+2023-07-07 08:56:12,330 - INFO - npm run dev output: [33m[nodemon] to restart at any time, enter `rs`[39m
+2023-07-07 08:56:12,330 - INFO - npm run dev output: [33m[nodemon] watching path(s): *.*[39m
+2023-07-07 08:56:12,330 - INFO - npm run dev output: [33m[nodemon] watching extensions: js,mjs,json[39m
+2023-07-07 08:56:12,330 - INFO - npm run dev output: [32m[nodemon] starting `babel-node src src/index.js`[39m
+2023-07-07 08:56:39,223 - INFO - npm run dev output: server on port 4550
+2023-07-07 08:56:39,458 - INFO - npm run dev output: Tiempo de consulta: 54 ms
+2023-07-07 08:56:39,458 - INFO - npm run dev output: Uso de memoria: 43597840 bytes
+2023-07-07 08:57:14,567 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-07 08:57:16,410 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-07 08:57:16,410 - INFO - npm run dev output: el numero de elementos encontrados es:15605
+2023-07-07 08:57:16,582 - INFO - npm run dev output: Tiempo de consulta: 2490 ms
+2023-07-07 08:57:16,582 - INFO - npm run dev output: Uso de memoria: 65586152 bytes
+2023-07-07 08:57:30,207 - INFO - npm run dev output: Tiempo de consulta: 7 ms
+2023-07-07 08:57:30,207 - INFO - npm run dev output: Uso de memoria: 42342336 bytes
+2023-07-07 09:30:03,255 - INFO - npm run dev output: Conexion a 2021 establecida!
+2023-07-07 09:30:12,011 - INFO - npm run dev output: Busqueda de items en la base 2021,
+2023-07-07 09:30:12,011 - INFO - npm run dev output: el numero de elementos encontrados es:22220
+2023-07-07 09:30:12,227 - INFO - npm run dev output: Tiempo de consulta: 20202 ms
+2023-07-07 09:30:12,228 - INFO - npm run dev output: Uso de memoria: 74296272 bytes
+2023-07-07 09:30:24,265 - INFO - npm run dev output: Tiempo de consulta: 2 ms
+2023-07-07 09:30:24,266 - INFO - npm run dev output: Uso de memoria: 42632928 bytes
+2023-07-07 10:35:28,894 - INFO - npm run dev output: Conexión a 2019 establecida!
+2023-07-07 10:35:39,145 - INFO - npm run dev output: Busqueda de items en la base 2019,
+2023-07-07 10:35:39,145 - INFO - npm run dev output: el numero de elementos encontrados es:4436
+2023-07-07 10:35:39,191 - INFO - npm run dev output: Tiempo de consulta: 10671 ms
+2023-07-07 10:35:39,191 - INFO - npm run dev output: Uso de memoria: 50718064 bytes
+2023-07-07 10:36:28,522 - INFO - npm run dev output: Conexión a 2019 establecida!
+2023-07-07 10:36:34,302 - INFO - npm run dev output: Busqueda de items en la base 2019,
+2023-07-07 10:36:34,302 - INFO - npm run dev output: el numero de elementos encontrados es:4436
+2023-07-07 10:36:34,333 - INFO - npm run dev output: Tiempo de consulta: 6359 ms
+2023-07-07 10:36:34,333 - INFO - npm run dev output: Uso de memoria: 49494424 bytes
+2023-07-07 16:24:29,856 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-07 16:24:40,106 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-07 16:24:40,106 - INFO - npm run dev output: el numero de elementos encontrados es:58053
+2023-07-07 16:24:41,450 - INFO - npm run dev output: Tiempo de consulta: 11621 ms
+2023-07-07 16:24:41,450 - INFO - npm run dev output: Uso de memoria: 346955600 bytes
+2023-07-10 11:03:17,183 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 11:03:19,058 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 11:03:19,058 - INFO - npm run dev output: el numero de elementos encontrados es:8828
+2023-07-10 11:03:19,183 - INFO - npm run dev output: Tiempo de consulta: 2050 ms
+2023-07-10 11:03:19,183 - INFO - npm run dev output: Uso de memoria: 90539384 bytes
+2023-07-10 11:08:00,521 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 11:08:58,303 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 11:08:58,303 - INFO - npm run dev output: el numero de elementos encontrados es:8828
+2023-07-10 11:08:58,460 - INFO - npm run dev output: Tiempo de consulta: 57933 ms
+2023-07-10 11:08:58,460 - INFO - npm run dev output: Uso de memoria: 87054496 bytes
+2023-07-10 14:51:26,876 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 14:51:26,876 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 14:51:28,470 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 14:51:28,470 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 14:51:28,610 - INFO - npm run dev output: Tiempo de consulta: 1741 ms
+2023-07-10 14:51:28,610 - INFO - npm run dev output: Uso de memoria: 88731160 bytes
+2023-07-10 14:51:29,626 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 14:51:29,626 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 14:51:29,845 - INFO - npm run dev output: Tiempo de consulta: 2969 ms
+2023-07-10 14:51:29,845 - INFO - npm run dev output: Uso de memoria: 84931616 bytes
+2023-07-10 14:53:23,066 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 14:53:24,488 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 14:53:24,488 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 14:53:24,644 - INFO - npm run dev output: Tiempo de consulta: 1577 ms
+2023-07-10 14:53:24,644 - INFO - npm run dev output: Uso de memoria: 87617432 bytes
+2023-07-10 14:59:16,891 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 14:59:18,298 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 14:59:18,298 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 14:59:18,438 - INFO - npm run dev output: Tiempo de consulta: 1547 ms
+2023-07-10 14:59:18,438 - INFO - npm run dev output: Uso de memoria: 86104152 bytes
+2023-07-10 14:59:19,485 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 14:59:20,641 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 14:59:20,641 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 14:59:20,782 - INFO - npm run dev output: Tiempo de consulta: 1302 ms
+2023-07-10 14:59:20,782 - INFO - npm run dev output: Uso de memoria: 86130120 bytes
+2023-07-10 14:59:25,860 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 14:59:26,969 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 14:59:26,969 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 14:59:27,110 - INFO - npm run dev output: Tiempo de consulta: 1241 ms
+2023-07-10 14:59:27,110 - INFO - npm run dev output: Uso de memoria: 120741528 bytes
+2023-07-10 15:00:10,245 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:00:11,557 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:00:11,557 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 15:00:11,698 - INFO - npm run dev output: Tiempo de consulta: 1456 ms
+2023-07-10 15:00:11,698 - INFO - npm run dev output: Uso de memoria: 87940000 bytes
+2023-07-10 15:00:12,823 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:00:13,979 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:00:13,979 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 15:00:14,120 - INFO - npm run dev output: Tiempo de consulta: 1300 ms
+2023-07-10 15:00:14,120 - INFO - npm run dev output: Uso de memoria: 86188792 bytes
+2023-07-10 15:06:20,531 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:06:21,875 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:06:21,875 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 15:06:22,063 - INFO - npm run dev output: Tiempo de consulta: 1539 ms
+2023-07-10 15:06:22,063 - INFO - npm run dev output: Uso de memoria: 87705072 bytes
+2023-07-10 15:07:08,282 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:07:09,595 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:07:09,595 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 15:07:09,751 - INFO - npm run dev output: Tiempo de consulta: 1475 ms
+2023-07-10 15:07:09,751 - INFO - npm run dev output: Uso de memoria: 87696816 bytes
+2023-07-10 15:07:09,782 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:07:11,048 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:07:11,048 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 15:07:11,204 - INFO - npm run dev output: Tiempo de consulta: 1433 ms
+2023-07-10 15:07:11,204 - INFO - npm run dev output: Uso de memoria: 85811056 bytes
+2023-07-10 15:08:08,384 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:08:09,759 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:08:09,759 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 15:08:09,900 - INFO - npm run dev output: Tiempo de consulta: 1515 ms
+2023-07-10 15:08:09,900 - INFO - npm run dev output: Uso de memoria: 87633448 bytes
+2023-07-10 15:10:58,111 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:10:59,408 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:10:59,408 - INFO - npm run dev output: el numero de elementos encontrados es:8856
+2023-07-10 15:10:59,548 - INFO - npm run dev output: Tiempo de consulta: 1443 ms
+2023-07-10 15:10:59,548 - INFO - npm run dev output: Uso de memoria: 87856776 bytes
+2023-07-10 15:18:47,249 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:18:48,625 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:18:48,625 - INFO - npm run dev output: el numero de elementos encontrados es:8860
+2023-07-10 15:18:48,765 - INFO - npm run dev output: Tiempo de consulta: 1529 ms
+2023-07-10 15:18:48,765 - INFO - npm run dev output: Uso de memoria: 87995008 bytes
+2023-07-10 15:19:37,641 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:19:38,923 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:19:38,923 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:19:39,063 - INFO - npm run dev output: Tiempo de consulta: 1420 ms
+2023-07-10 15:19:39,063 - INFO - npm run dev output: Uso de memoria: 87023640 bytes
+2023-07-10 15:19:40,751 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:19:42,032 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:19:42,032 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:19:42,173 - INFO - npm run dev output: Tiempo de consulta: 1426 ms
+2023-07-10 15:19:42,173 - INFO - npm run dev output: Uso de memoria: 86150264 bytes
+2023-07-10 15:20:10,752 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:20:12,018 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:20:12,018 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:20:12,174 - INFO - npm run dev output: Tiempo de consulta: 1415 ms
+2023-07-10 15:20:12,174 - INFO - npm run dev output: Uso de memoria: 87359872 bytes
+2023-07-10 15:25:20,118 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:25:21,587 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:25:21,587 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:25:21,727 - INFO - npm run dev output: Tiempo de consulta: 1603 ms
+2023-07-10 15:25:21,727 - INFO - npm run dev output: Uso de memoria: 88006680 bytes
+2023-07-10 15:25:27,509 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:25:28,712 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:25:28,712 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:25:28,852 - INFO - npm run dev output: Tiempo de consulta: 1347 ms
+2023-07-10 15:25:28,852 - INFO - npm run dev output: Uso de memoria: 86206384 bytes
+2023-07-10 15:26:06,060 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:26:07,295 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:26:07,295 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:26:07,451 - INFO - npm run dev output: Tiempo de consulta: 1399 ms
+2023-07-10 15:26:07,451 - INFO - npm run dev output: Uso de memoria: 88411880 bytes
+2023-07-10 15:27:08,843 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:27:10,608 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:27:10,608 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:27:10,764 - INFO - npm run dev output: Tiempo de consulta: 1924 ms
+2023-07-10 15:27:10,764 - INFO - npm run dev output: Uso de memoria: 91095968 bytes
+2023-07-10 15:27:11,874 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:27:13,452 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:27:13,452 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:27:13,624 - INFO - npm run dev output: Tiempo de consulta: 1764 ms
+2023-07-10 15:27:13,624 - INFO - npm run dev output: Uso de memoria: 87537776 bytes
+2023-07-10 15:27:17,452 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:27:18,843 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:27:18,843 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:27:18,983 - INFO - npm run dev output: Tiempo de consulta: 1524 ms
+2023-07-10 15:27:18,983 - INFO - npm run dev output: Uso de memoria: 86142784 bytes
+2023-07-10 15:27:45,297 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:27:46,563 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:27:46,563 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:27:46,719 - INFO - npm run dev output: Tiempo de consulta: 1425 ms
+2023-07-10 15:27:46,719 - INFO - npm run dev output: Uso de memoria: 87308360 bytes
+2023-07-10 15:27:50,751 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:27:51,938 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:27:51,938 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:27:52,079 - INFO - npm run dev output: Tiempo de consulta: 1330 ms
+2023-07-10 15:27:52,079 - INFO - npm run dev output: Uso de memoria: 123413288 bytes
+2023-07-10 15:28:15,721 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:28:17,111 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:28:17,111 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:28:17,267 - INFO - npm run dev output: Tiempo de consulta: 1549 ms
+2023-07-10 15:28:17,267 - INFO - npm run dev output: Uso de memoria: 90231488 bytes
+2023-07-10 15:31:57,786 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:31:59,036 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:31:59,036 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:31:59,177 - INFO - npm run dev output: Tiempo de consulta: 1388 ms
+2023-07-10 15:31:59,177 - INFO - npm run dev output: Uso de memoria: 87067992 bytes
+2023-07-10 15:32:03,161 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:32:04,286 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:32:04,302 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:32:04,427 - INFO - npm run dev output: Tiempo de consulta: 1266 ms
+2023-07-10 15:32:04,427 - INFO - npm run dev output: Uso de memoria: 86442456 bytes
+2023-07-10 15:32:06,270 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:32:07,599 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:32:07,599 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:32:07,771 - INFO - npm run dev output: Tiempo de consulta: 1494 ms
+2023-07-10 15:32:07,771 - INFO - npm run dev output: Uso de memoria: 130385640 bytes
+2023-07-10 15:32:33,866 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:32:35,084 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:32:35,084 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:32:35,225 - INFO - npm run dev output: Tiempo de consulta: 1370 ms
+2023-07-10 15:32:35,225 - INFO - npm run dev output: Uso de memoria: 87357944 bytes
+2023-07-10 15:32:40,256 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:32:41,366 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:32:41,366 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:32:41,506 - INFO - npm run dev output: Tiempo de consulta: 1259 ms
+2023-07-10 15:32:41,506 - INFO - npm run dev output: Uso de memoria: 86272232 bytes
+2023-07-10 15:32:42,366 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:32:43,459 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:32:43,459 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:32:43,584 - INFO - npm run dev output: Tiempo de consulta: 1233 ms
+2023-07-10 15:32:43,584 - INFO - npm run dev output: Uso de memoria: 128375600 bytes
+2023-07-10 15:33:05,741 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:33:07,257 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 15:33:07,257 - INFO - npm run dev output: el numero de elementos encontrados es:8873
+2023-07-10 15:33:07,398 - INFO - npm run dev output: Tiempo de consulta: 1655 ms
+2023-07-10 15:33:07,398 - INFO - npm run dev output: Uso de memoria: 92145192 bytes
+2023-07-10 15:33:09,398 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:33:19,695 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-10 15:33:19,695 - INFO - npm run dev output: el numero de elementos encontrados es:58621
+2023-07-10 15:33:20,960 - INFO - npm run dev output: Tiempo de consulta: 11560 ms
+2023-07-10 15:33:20,960 - INFO - npm run dev output: Uso de memoria: 347158896 bytes
+2023-07-10 15:33:21,007 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:33:30,445 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-10 15:33:30,445 - INFO - npm run dev output: el numero de elementos encontrados es:58621
+2023-07-10 15:33:31,836 - INFO - npm run dev output: Tiempo de consulta: 10878 ms
+2023-07-10 15:33:31,836 - INFO - npm run dev output: Uso de memoria: 655574224 bytes
+2023-07-10 15:33:31,836 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:33:31,836 - INFO - npm run dev output: Tiempo de consulta: 3283 ms
+2023-07-10 15:33:31,836 - INFO - npm run dev output: Uso de memoria: 655616256 bytes
+2023-07-10 15:33:32,648 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 15:33:42,602 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-10 15:33:42,602 - INFO - npm run dev output: el numero de elementos encontrados es:58621
+2023-07-10 15:33:43,852 - INFO - npm run dev output: Tiempo de consulta: 11249 ms
+2023-07-10 15:33:43,852 - INFO - npm run dev output: Uso de memoria: 577898520 bytes
+2023-07-10 18:21:34,287 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 18:21:34,287 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 18:21:37,022 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-10 18:21:37,022 - INFO - npm run dev output: el numero de elementos encontrados es:8885
+2023-07-10 18:21:37,178 - INFO - npm run dev output: Tiempo de consulta: 2911 ms
+2023-07-10 18:21:37,178 - INFO - npm run dev output: Uso de memoria: 104175280 bytes
+2023-07-10 18:21:44,959 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-10 18:21:44,959 - INFO - npm run dev output: el numero de elementos encontrados es:58724
+2023-07-10 18:21:46,194 - INFO - npm run dev output: Tiempo de consulta: 11935 ms
+2023-07-10 18:21:46,194 - INFO - npm run dev output: Uso de memoria: 351474568 bytes
+2023-07-10 18:36:07,694 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 18:36:08,897 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-10 18:36:08,897 - INFO - npm run dev output: el numero de elementos encontrados es:16105
+2023-07-10 18:36:09,054 - INFO - npm run dev output: Tiempo de consulta: 1395 ms
+2023-07-10 18:36:09,054 - INFO - npm run dev output: Uso de memoria: 64892856 bytes
+2023-07-10 18:41:44,781 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 18:41:45,875 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-10 18:41:45,875 - INFO - npm run dev output: el numero de elementos encontrados es:16105
+2023-07-10 18:41:46,047 - INFO - npm run dev output: Tiempo de consulta: 1280 ms
+2023-07-10 18:41:46,047 - INFO - npm run dev output: Uso de memoria: 66699912 bytes
+2023-07-10 18:42:29,018 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 18:42:30,174 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-10 18:42:30,174 - INFO - npm run dev output: el numero de elementos encontrados es:16105
+2023-07-10 18:42:30,330 - INFO - npm run dev output: Tiempo de consulta: 1340 ms
+2023-07-10 18:42:30,330 - INFO - npm run dev output: Uso de memoria: 72603640 bytes
+2023-07-10 18:45:14,862 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 18:45:15,893 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-10 18:45:15,893 - INFO - npm run dev output: el numero de elementos encontrados es:16105
+2023-07-10 18:45:16,065 - INFO - npm run dev output: Tiempo de consulta: 1225 ms
+2023-07-10 18:45:16,065 - INFO - npm run dev output: Uso de memoria: 66969912 bytes
+2023-07-10 18:47:01,975 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-10 18:47:03,162 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-10 18:47:03,162 - INFO - npm run dev output: el numero de elementos encontrados es:16105
+2023-07-10 18:47:03,334 - INFO - npm run dev output: Tiempo de consulta: 1391 ms
+2023-07-10 18:47:03,334 - INFO - npm run dev output: Uso de memoria: 65066360 bytes
+2023-07-11 10:10:56,069 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-11 10:10:58,741 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-11 10:11:04,725 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-11 10:11:04,725 - INFO - npm run dev output: el numero de elementos encontrados es:157451
+2023-07-11 10:11:05,913 - INFO - npm run dev output: Tiempo de consulta: 7178 ms
+2023-07-11 10:11:05,913 - INFO - npm run dev output: Uso de memoria: 189426480 bytes
+2023-07-11 10:11:10,991 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-11 10:11:10,991 - INFO - npm run dev output: el numero de elementos encontrados es:157451
+2023-07-11 10:11:12,163 - INFO - npm run dev output: Tiempo de consulta: 16119 ms
+2023-07-11 10:11:12,163 - INFO - npm run dev output: Uso de memoria: 291102840 bytes
+2023-07-11 10:11:12,178 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-11 10:11:17,366 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-11 10:11:17,366 - INFO - npm run dev output: el numero de elementos encontrados es:157451
+2023-07-11 10:11:18,663 - INFO - npm run dev output: Tiempo de consulta: 10938 ms
+2023-07-11 10:11:18,663 - INFO - npm run dev output: Uso de memoria: 395699568 bytes
+2023-07-11 10:15:05,420 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-11 10:15:11,499 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-11 10:15:11,499 - INFO - npm run dev output: el numero de elementos encontrados es:157463
+2023-07-11 10:15:12,717 - INFO - npm run dev output: Tiempo de consulta: 7326 ms
+2023-07-11 10:15:12,717 - INFO - npm run dev output: Uso de memoria: 187412368 bytes
+2023-07-11 10:15:20,983 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-11 10:15:26,843 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-11 10:15:26,843 - INFO - npm run dev output: el numero de elementos encontrados es:157463
+2023-07-11 10:15:28,046 - INFO - npm run dev output: Tiempo de consulta: 7086 ms
+2023-07-11 10:15:28,046 - INFO - npm run dev output: Uso de memoria: 191236248 bytes
+2023-07-11 10:16:30,640 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-11 10:16:36,250 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-11 10:16:36,250 - INFO - npm run dev output: el numero de elementos encontrados es:157463
+2023-07-11 10:16:37,422 - INFO - npm run dev output: Tiempo de consulta: 6819 ms
+2023-07-11 10:16:37,422 - INFO - npm run dev output: Uso de memoria: 186771360 bytes
+2023-07-12 13:34:12,768 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-12 13:34:14,081 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-12 13:34:14,081 - INFO - npm run dev output: el numero de elementos encontrados es:16200
+2023-07-12 13:34:14,237 - INFO - npm run dev output: Tiempo de consulta: 1528 ms
+2023-07-12 13:34:14,237 - INFO - npm run dev output: Uso de memoria: 65516504 bytes
+2023-07-12 13:43:49,301 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-12 13:43:59,380 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-12 13:43:59,395 - INFO - npm run dev output: el numero de elementos encontrados es:59353
+2023-07-12 13:44:00,880 - INFO - npm run dev output: Tiempo de consulta: 11600 ms
+2023-07-12 13:44:00,880 - INFO - npm run dev output: Uso de memoria: 353320616 bytes
+2023-07-12 16:18:35,886 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-12 16:18:43,510 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-12 16:18:43,510 - INFO - npm run dev output: el numero de elementos encontrados es:159438
+2023-07-12 16:18:44,697 - INFO - npm run dev output: Tiempo de consulta: 8873 ms
+2023-07-12 16:18:44,697 - INFO - npm run dev output: Uso de memoria: 188405808 bytes
+2023-07-12 16:20:00,998 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-12 16:20:11,780 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-07-12 16:20:11,780 - INFO - npm run dev output: el numero de elementos encontrados es:59524
+2023-07-12 16:20:13,077 - INFO - npm run dev output: Tiempo de consulta: 12186 ms
+2023-07-12 16:20:13,077 - INFO - npm run dev output: Uso de memoria: 357241144 bytes
+2023-07-12 16:23:00,159 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-12 16:23:01,549 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-12 16:23:01,549 - INFO - npm run dev output: el numero de elementos encontrados es:16239
+2023-07-12 16:23:01,737 - INFO - npm run dev output: Tiempo de consulta: 1605 ms
+2023-07-12 16:23:01,737 - INFO - npm run dev output: Uso de memoria: 65774608 bytes
+2023-07-12 16:23:30,659 - INFO - npm run dev output: Tiempo de consulta: 5 ms
+2023-07-12 16:23:30,659 - INFO - npm run dev output: Uso de memoria: 43540816 bytes
+2023-07-13 10:26:34,471 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:26:35,143 - INFO - npm run dev output: Uso de memoria: 44179976 bytes
+2023-07-13 10:26:37,440 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:26:37,440 - INFO - npm run dev output: Uso de memoria: 44218376 bytes
+2023-07-13 10:26:44,846 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:26:44,846 - INFO - npm run dev output: Uso de memoria: 44255624 bytes
+2023-07-13 10:28:50,391 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:28:50,406 - INFO - npm run dev output: Uso de memoria: 44395400 bytes
+2023-07-13 10:28:55,141 - INFO - npm run dev output: Tiempo de consulta: 0 ms
+2023-07-13 10:28:55,141 - INFO - npm run dev output: Uso de memoria: 44448264 bytes
+2023-07-13 10:29:05,297 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:29:05,297 - INFO - npm run dev output: Uso de memoria: 44483192 bytes
+2023-07-13 10:30:22,854 - INFO - npm run dev output: Tiempo de consulta: 0 ms
+2023-07-13 10:30:22,854 - INFO - npm run dev output: Uso de memoria: 44580008 bytes
+2023-07-13 10:34:07,104 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:34:07,119 - INFO - npm run dev output: Uso de memoria: 44677880 bytes
+2023-07-13 10:34:11,588 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:34:11,588 - INFO - npm run dev output: Uso de memoria: 44714120 bytes
+2023-07-13 10:34:22,573 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:34:22,573 - INFO - npm run dev output: Uso de memoria: 44749400 bytes
+2023-07-13 10:36:42,833 - INFO - npm run dev output: Tiempo de consulta: 2 ms
+2023-07-13 10:36:42,833 - INFO - npm run dev output: Uso de memoria: 44895616 bytes
+2023-07-13 10:36:44,146 - INFO - npm run dev output: Tiempo de consulta: 2 ms
+2023-07-13 10:36:44,552 - INFO - npm run dev output: Uso de memoria: 44935432 bytes
+2023-07-13 10:36:45,505 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-13 10:36:45,505 - INFO - npm run dev output: Uso de memoria: 44970008 bytes
+2023-07-13 10:52:26,050 - INFO - npm run dev output: Tiempo de consulta: 2 ms
+2023-07-13 10:52:26,050 - INFO - npm run dev output: Uso de memoria: 45022504 bytes
+2023-07-13 11:02:58,056 - INFO - npm run dev output: [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+2023-07-21 10:12:40,516 - INFO - Npm Service started
+2023-07-21 10:12:42,172 - INFO - npm run dev output: 
+2023-07-21 10:12:42,172 - INFO - npm run dev output: > api-node-jm@1.0.0 dev
+2023-07-21 10:12:42,172 - INFO - npm run dev output: > nodemon src --exec babel-node src/index.js
+2023-07-21 10:12:42,172 - INFO - npm run dev output: 
+2023-07-21 10:12:47,101 - INFO - npm run dev output: [33m[nodemon] 2.0.22[39m
+2023-07-21 10:12:47,101 - INFO - npm run dev output: [33m[nodemon] to restart at any time, enter `rs`[39m
+2023-07-21 10:12:47,101 - INFO - npm run dev output: [33m[nodemon] watching path(s): *.*[39m
+2023-07-21 10:12:47,101 - INFO - npm run dev output: [33m[nodemon] watching extensions: js,mjs,json[39m
+2023-07-21 10:12:47,101 - INFO - npm run dev output: [32m[nodemon] starting `babel-node src src/index.js`[39m
+2023-07-21 10:13:04,971 - INFO - npm run dev output: server on port 4550
+2023-07-21 10:13:14,080 - INFO - npm run dev output: Tiempo de consulta: 5 ms
+2023-07-21 10:13:14,080 - INFO - npm run dev output: Uso de memoria: 42615480 bytes
+2023-07-21 10:13:23,364 - INFO - npm run dev output: Tiempo de consulta: 2 ms
+2023-07-21 10:13:23,364 - INFO - npm run dev output: Uso de memoria: 42979560 bytes
+2023-07-21 10:13:30,993 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 10:14:29,592 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 10:14:29,592 - INFO - npm run dev output: el numero de elementos encontrados es:9917
+2023-07-21 10:14:29,639 - INFO - npm run dev output: Tiempo de consulta: 58741 ms
+2023-07-21 10:14:29,639 - INFO - npm run dev output: Uso de memoria: 57751352 bytes
+2023-07-21 18:02:49,278 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:02:49,395 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:02:52,185 - INFO - npm run dev output: Tiempo de consulta: 2792 ms
+2023-07-21 18:02:52,186 - INFO - npm run dev output: Uso de memoria: 46583944 bytes
+2023-07-21 18:03:58,182 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 18:03:58,183 - INFO - npm run dev output: el numero de elementos encontrados es:5382
+2023-07-21 18:03:58,209 - INFO - npm run dev output: Tiempo de consulta: 68952 ms
+2023-07-21 18:03:58,209 - INFO - npm run dev output: Uso de memoria: 52141696 bytes
+2023-07-21 18:06:32,818 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:06:35,815 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:06:38,833 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:07:27,029 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 18:07:27,029 - INFO - npm run dev output: el numero de elementos encontrados es:5381
+2023-07-21 18:07:27,054 - INFO - npm run dev output: Tiempo de consulta: 54252 ms
+2023-07-21 18:07:27,054 - INFO - npm run dev output: Uso de memoria: 57059424 bytes
+2023-07-21 18:07:30,777 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 18:07:30,778 - INFO - npm run dev output: el numero de elementos encontrados es:5381
+2023-07-21 18:07:30,803 - INFO - npm run dev output: Tiempo de consulta: 51970 ms
+2023-07-21 18:07:30,804 - INFO - npm run dev output: Uso de memoria: 54984408 bytes
+2023-07-21 18:07:32,050 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 18:07:32,050 - INFO - npm run dev output: el numero de elementos encontrados es:5381
+2023-07-21 18:07:32,077 - INFO - npm run dev output: Tiempo de consulta: 56263 ms
+2023-07-21 18:07:32,077 - INFO - npm run dev output: Uso de memoria: 56328264 bytes
+2023-07-21 18:08:21,647 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:08:24,686 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:08:27,799 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:08:57,532 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 18:08:57,532 - INFO - npm run dev output: el numero de elementos encontrados es:5382
+2023-07-21 18:08:57,557 - INFO - npm run dev output: Tiempo de consulta: 29758 ms
+2023-07-21 18:08:57,557 - INFO - npm run dev output: Uso de memoria: 60303480 bytes
+2023-07-21 18:09:06,259 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 18:09:06,259 - INFO - npm run dev output: el numero de elementos encontrados es:5382
+2023-07-21 18:09:06,284 - INFO - npm run dev output: Tiempo de consulta: 44651 ms
+2023-07-21 18:09:06,284 - INFO - npm run dev output: Uso de memoria: 60002912 bytes
+2023-07-21 18:09:09,760 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 18:09:09,760 - INFO - npm run dev output: el numero de elementos encontrados es:5382
+2023-07-21 18:09:09,785 - INFO - npm run dev output: Tiempo de consulta: 45100 ms
+2023-07-21 18:09:09,786 - INFO - npm run dev output: Uso de memoria: 62944816 bytes
+2023-07-21 18:09:29,082 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:09:29,888 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-21 18:09:29,888 - INFO - npm run dev output: el numero de elementos encontrados es:9540
+2023-07-21 18:09:29,952 - INFO - npm run dev output: Tiempo de consulta: 887 ms
+2023-07-21 18:09:29,952 - INFO - npm run dev output: Uso de memoria: 94124704 bytes
+2023-07-21 18:09:32,231 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:09:33,193 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-21 18:09:33,193 - INFO - npm run dev output: el numero de elementos encontrados es:9540
+2023-07-21 18:09:33,258 - INFO - npm run dev output: Tiempo de consulta: 1028 ms
+2023-07-21 18:09:33,258 - INFO - npm run dev output: Uso de memoria: 125697816 bytes
+2023-07-21 18:09:37,301 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:09:37,966 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-21 18:09:37,966 - INFO - npm run dev output: el numero de elementos encontrados es:9540
+2023-07-21 18:09:38,029 - INFO - npm run dev output: Tiempo de consulta: 729 ms
+2023-07-21 18:09:38,029 - INFO - npm run dev output: Uso de memoria: 160754448 bytes
+2023-07-21 18:10:12,959 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:10:13,383 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-21 18:10:16,120 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-07-21 18:10:16,120 - INFO - npm run dev output: el numero de elementos encontrados es:9540
+2023-07-21 18:10:16,185 - INFO - npm run dev output: Tiempo de consulta: 2801 ms
+2023-07-21 18:10:16,185 - INFO - npm run dev output: Uso de memoria: 94199272 bytes
+2023-07-21 18:10:33,751 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-21 18:10:33,752 - INFO - npm run dev output: el numero de elementos encontrados es:5382
+2023-07-21 18:10:33,778 - INFO - npm run dev output: Tiempo de consulta: 20820 ms
+2023-07-21 18:10:33,778 - INFO - npm run dev output: Uso de memoria: 52836304 bytes
+2023-07-28 12:03:08,592 - INFO - npm run dev output: Tiempo de consulta: 2 ms
+2023-07-28 12:03:08,593 - INFO - npm run dev output: Uso de memoria: 49031560 bytes
+2023-07-28 12:03:24,026 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-28 12:03:45,750 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-07-28 12:03:45,750 - INFO - npm run dev output: Uso de memoria: 55097256 bytes
+2023-07-28 12:03:47,387 - INFO - npm run dev output: Busqueda de items en l base 2023,
+2023-07-28 12:03:47,387 - INFO - npm run dev output: el numero de elementos encontrados es:9983
+2023-07-28 12:03:47,434 - INFO - npm run dev output: Tiempo de consulta: 23432 ms
+2023-07-28 12:03:47,434 - INFO - npm run dev output: Uso de memoria: 59285104 bytes
+2023-07-28 12:03:57,906 - INFO - npm run dev output: Tiempo de consulta: 0 ms
+2023-07-28 12:03:57,906 - INFO - npm run dev output: Uso de memoria: 59334776 bytes
+2023-07-28 12:04:43,561 - INFO - npm run dev output: Conexion a 2021 establecida!
+2023-07-28 12:04:44,405 - INFO - npm run dev output: Tiempo de consulta: 15755 ms
+2023-07-28 12:04:44,405 - INFO - npm run dev output: Uso de memoria: 60453936 bytes
+2023-07-28 12:06:50,547 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-28 12:07:15,769 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-28 12:07:15,770 - INFO - npm run dev output: el numero de elementos encontrados es:43694
+2023-07-28 12:07:15,914 - INFO - npm run dev output: Tiempo de consulta: 25367 ms
+2023-07-28 12:07:15,915 - INFO - npm run dev output: Uso de memoria: 84715704 bytes
+2023-07-28 12:08:57,188 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-28 12:09:09,736 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-28 12:09:09,736 - INFO - npm run dev output: el numero de elementos encontrados es:172578
+2023-07-28 12:09:10,338 - INFO - npm run dev output: Tiempo de consulta: 13249 ms
+2023-07-28 12:09:10,338 - INFO - npm run dev output: Uso de memoria: 204354448 bytes
+2023-07-28 12:09:14,860 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-28 12:09:17,865 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-28 12:09:17,865 - INFO - npm run dev output: el numero de elementos encontrados es:172578
+2023-07-28 12:09:18,454 - INFO - npm run dev output: Tiempo de consulta: 3621 ms
+2023-07-28 12:09:18,454 - INFO - npm run dev output: Uso de memoria: 317770152 bytes
+2023-07-28 12:09:18,655 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-28 12:09:21,790 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-28 12:09:21,791 - INFO - npm run dev output: el numero de elementos encontrados es:172578
+2023-07-28 12:09:22,374 - INFO - npm run dev output: Tiempo de consulta: 3752 ms
+2023-07-28 12:09:22,374 - INFO - npm run dev output: Uso de memoria: 294021576 bytes
+2023-07-28 12:09:27,084 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-28 12:09:29,741 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-28 12:09:29,741 - INFO - npm run dev output: el numero de elementos encontrados es:172578
+2023-07-28 12:09:30,316 - INFO - npm run dev output: Tiempo de consulta: 3251 ms
+2023-07-28 12:09:30,316 - INFO - npm run dev output: Uso de memoria: 207898968 bytes
+2023-07-28 12:09:30,400 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-07-28 12:09:33,049 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-07-28 12:09:33,050 - INFO - npm run dev output: el numero de elementos encontrados es:172578
+2023-07-28 12:09:33,632 - INFO - npm run dev output: Tiempo de consulta: 3259 ms
+2023-07-28 12:09:33,632 - INFO - npm run dev output: Uso de memoria: 204093712 bytes
+2023-07-28 12:48:24,774 - INFO - npm run dev output: Tiempo de consulta: 2 ms
+2023-07-28 12:48:24,775 - INFO - npm run dev output: Uso de memoria: 44314904 bytes
+2023-08-01 10:19:07,364 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-08-01 10:19:07,364 - INFO - npm run dev output: Uso de memoria: 44608056 bytes
+2023-08-01 10:19:11,528 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-08-01 10:19:11,528 - INFO - npm run dev output: Uso de memoria: 44654136 bytes
+2023-08-01 10:19:16,201 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-01 10:19:17,811 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-01 10:19:17,811 - INFO - npm run dev output: el numero de elementos encontrados es:10015
+2023-08-01 10:19:17,880 - INFO - npm run dev output: Tiempo de consulta: 1721 ms
+2023-08-01 10:19:17,880 - INFO - npm run dev output: Uso de memoria: 93456328 bytes
+2023-08-01 10:19:22,201 - INFO - npm run dev output: Tiempo de consulta: 1 ms
+2023-08-01 10:19:22,201 - INFO - npm run dev output: Uso de memoria: 93734600 bytes
+2023-08-01 15:46:00,680 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-01 15:46:01,756 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-01 15:46:01,756 - INFO - npm run dev output: el numero de elementos encontrados es:10070
+2023-08-01 15:46:01,826 - INFO - npm run dev output: Tiempo de consulta: 1148 ms
+2023-08-01 15:46:01,826 - INFO - npm run dev output: Uso de memoria: 97177968 bytes
+2023-08-01 15:51:11,020 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-01 15:51:12,114 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-01 15:51:12,130 - INFO - npm run dev output: el numero de elementos encontrados es:10070
+2023-08-01 15:51:12,192 - INFO - npm run dev output: Tiempo de consulta: 1175 ms
+2023-08-01 15:51:12,192 - INFO - npm run dev output: Uso de memoria: 95806912 bytes
+2023-08-02 15:50:03,918 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-02 15:50:06,014 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-02 15:50:06,015 - INFO - npm run dev output: el numero de elementos encontrados es:10165
+2023-08-02 15:50:06,088 - INFO - npm run dev output: Tiempo de consulta: 2172 ms
+2023-08-02 15:50:06,088 - INFO - npm run dev output: Uso de memoria: 98234184 bytes
+2023-08-02 15:50:09,248 - INFO - npm run dev output: Tiempo de consulta: 2 ms
+2023-08-02 15:50:09,248 - INFO - npm run dev output: Uso de memoria: 44615272 bytes
+2023-08-08 14:44:18,759 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:44:24,047 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 14:44:24,047 - INFO - npm run dev output: el numero de elementos encontrados es:67927
+2023-08-08 14:44:24,688 - INFO - npm run dev output: Tiempo de consulta: 5934 ms
+2023-08-08 14:44:24,688 - INFO - npm run dev output: Uso de memoria: 403206424 bytes
+2023-08-08 14:44:24,688 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:44:24,688 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:44:24,688 - INFO - npm run dev output: Tiempo de consulta: 2025 ms
+2023-08-08 14:44:24,688 - INFO - npm run dev output: Uso de memoria: 403255608 bytes
+2023-08-08 14:44:24,688 - INFO - npm run dev output: Tiempo de consulta: 2026 ms
+2023-08-08 14:44:24,688 - INFO - npm run dev output: Uso de memoria: 403274152 bytes
+2023-08-08 14:44:25,360 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:44:25,375 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:44:33,516 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 14:44:33,516 - INFO - npm run dev output: el numero de elementos encontrados es:67927
+2023-08-08 14:44:34,157 - INFO - npm run dev output: Tiempo de consulta: 8805 ms
+2023-08-08 14:44:34,157 - INFO - npm run dev output: Uso de memoria: 546606144 bytes
+2023-08-08 14:44:34,688 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 14:44:34,688 - INFO - npm run dev output: el numero de elementos encontrados es:67927
+2023-08-08 14:44:35,313 - INFO - npm run dev output: Tiempo de consulta: 9958 ms
+2023-08-08 14:44:35,313 - INFO - npm run dev output: Uso de memoria: 750801400 bytes
+2023-08-08 14:56:34,680 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:56:35,055 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:56:39,930 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 14:56:39,930 - INFO - npm run dev output: el numero de elementos encontrados es:67968
+2023-08-08 14:56:40,555 - INFO - npm run dev output: Tiempo de consulta: 5900 ms
+2023-08-08 14:56:40,555 - INFO - npm run dev output: Uso de memoria: 431601936 bytes
+2023-08-08 14:56:42,789 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:56:42,789 - INFO - npm run dev output: Tiempo de consulta: 3415 ms
+2023-08-08 14:56:42,789 - INFO - npm run dev output: Uso de memoria: 175102440 bytes
+2023-08-08 14:56:43,352 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 14:56:43,899 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 14:56:43,899 - INFO - npm run dev output: el numero de elementos encontrados es:67968
+2023-08-08 14:56:44,524 - INFO - npm run dev output: Tiempo de consulta: 9473 ms
+2023-08-08 14:56:44,524 - INFO - npm run dev output: Uso de memoria: 403696200 bytes
+2023-08-08 14:56:48,414 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 14:56:48,414 - INFO - npm run dev output: el numero de elementos encontrados es:67968
+2023-08-08 14:56:49,039 - INFO - npm run dev output: Tiempo de consulta: 5710 ms
+2023-08-08 14:56:49,039 - INFO - npm run dev output: Uso de memoria: 665920608 bytes
+2023-08-08 15:07:10,949 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:07:12,152 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-08 15:07:12,152 - INFO - npm run dev output: el numero de elementos encontrados es:10577
+2023-08-08 15:07:12,231 - INFO - npm run dev output: Tiempo de consulta: 1300 ms
+2023-08-08 15:07:12,231 - INFO - npm run dev output: Uso de memoria: 98312584 bytes
+2023-08-08 15:07:13,981 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:07:14,699 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-08 15:07:15,278 - INFO - npm run dev output: el numero de elementos encontrados es:10577
+2023-08-08 15:07:15,278 - INFO - npm run dev output: Tiempo de consulta: 803 ms
+2023-08-08 15:07:15,278 - INFO - npm run dev output: Uso de memoria: 95361504 bytes
+2023-08-08 15:07:17,309 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:07:18,028 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-08 15:07:18,028 - INFO - npm run dev output: el numero de elementos encontrados es:10577
+2023-08-08 15:07:18,106 - INFO - npm run dev output: Tiempo de consulta: 796 ms
+2023-08-08 15:07:18,106 - INFO - npm run dev output: Uso de memoria: 135639080 bytes
+2023-08-08 15:10:11,732 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:10:16,170 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 15:10:16,170 - INFO - npm run dev output: el numero de elementos encontrados es:67985
+2023-08-08 15:10:16,795 - INFO - npm run dev output: Tiempo de consulta: 5063 ms
+2023-08-08 15:10:16,795 - INFO - npm run dev output: Uso de memoria: 399623840 bytes
+2023-08-08 15:10:16,795 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:10:16,795 - INFO - npm run dev output: Tiempo de consulta: 1158 ms
+2023-08-08 15:10:16,795 - INFO - npm run dev output: Uso de memoria: 399668616 bytes
+2023-08-08 15:10:17,138 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:10:21,732 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 15:10:21,732 - INFO - npm run dev output: el numero de elementos encontrados es:67985
+2023-08-08 15:10:22,357 - INFO - npm run dev output: Tiempo de consulta: 5229 ms
+2023-08-08 15:10:22,357 - INFO - npm run dev output: Uso de memoria: 398152256 bytes
+2023-08-08 15:10:22,842 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:10:27,389 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 15:10:27,389 - INFO - npm run dev output: el numero de elementos encontrados es:67985
+2023-08-08 15:10:28,014 - INFO - npm run dev output: Tiempo de consulta: 5178 ms
+2023-08-08 15:10:28,014 - INFO - npm run dev output: Uso de memoria: 664194416 bytes
+2023-08-08 15:20:12,580 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:20:17,080 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 15:20:17,096 - INFO - npm run dev output: el numero de elementos encontrados es:67990
+2023-08-08 15:20:17,705 - INFO - npm run dev output: Tiempo de consulta: 5134 ms
+2023-08-08 15:20:17,705 - INFO - npm run dev output: Uso de memoria: 398948032 bytes
+2023-08-08 15:20:17,705 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:20:17,705 - INFO - npm run dev output: Tiempo de consulta: 1157 ms
+2023-08-08 15:20:17,705 - INFO - npm run dev output: Uso de memoria: 399040312 bytes
+2023-08-08 15:20:17,721 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:20:22,018 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 15:20:22,018 - INFO - npm run dev output: el numero de elementos encontrados es:67990
+2023-08-08 15:20:22,643 - INFO - npm run dev output: Tiempo de consulta: 4942 ms
+2023-08-08 15:20:22,643 - INFO - npm run dev output: Uso de memoria: 398671360 bytes
+2023-08-08 15:20:22,643 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:20:22,643 - INFO - npm run dev output: Tiempo de consulta: 2886 ms
+2023-08-08 15:20:22,643 - INFO - npm run dev output: Uso de memoria: 398706552 bytes
+2023-08-08 15:20:22,908 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:20:27,190 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 15:20:27,190 - INFO - npm run dev output: el numero de elementos encontrados es:67990
+2023-08-08 15:20:27,815 - INFO - npm run dev output: Tiempo de consulta: 4920 ms
+2023-08-08 15:20:28,033 - INFO - npm run dev output: Uso de memoria: 664059376 bytes
+2023-08-08 15:29:51,925 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:29:52,269 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:29:55,237 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-08 15:29:55,237 - INFO - npm run dev output: el numero de elementos encontrados es:10577
+2023-08-08 15:29:55,316 - INFO - npm run dev output: Tiempo de consulta: 3407 ms
+2023-08-08 15:29:55,316 - INFO - npm run dev output: Uso de memoria: 195260184 bytes
+2023-08-08 15:29:56,972 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-08 15:29:56,972 - INFO - npm run dev output: el numero de elementos encontrados es:67999
+2023-08-08 15:29:57,612 - INFO - npm run dev output: Tiempo de consulta: 5346 ms
+2023-08-08 15:29:57,612 - INFO - npm run dev output: Uso de memoria: 396979728 bytes
+2023-08-08 15:45:55,007 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:45:58,179 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-08 15:45:58,179 - INFO - npm run dev output: el numero de elementos encontrados es:182370
+2023-08-08 15:45:58,788 - INFO - npm run dev output: Tiempo de consulta: 3801 ms
+2023-08-08 15:45:58,788 - INFO - npm run dev output: Uso de memoria: 199831184 bytes
+2023-08-08 15:45:59,304 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:46:01,648 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-08 15:46:01,648 - INFO - npm run dev output: el numero de elementos encontrados es:182370
+2023-08-08 15:46:02,319 - INFO - npm run dev output: Tiempo de consulta: 3019 ms
+2023-08-08 15:46:02,319 - INFO - npm run dev output: Uso de memoria: 359154216 bytes
+2023-08-08 15:46:03,522 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:46:05,851 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-08 15:46:05,851 - INFO - npm run dev output: el numero de elementos encontrados es:182370
+2023-08-08 15:46:06,460 - INFO - npm run dev output: Tiempo de consulta: 2954 ms
+2023-08-08 15:46:06,460 - INFO - npm run dev output: Uso de memoria: 297632624 bytes
+2023-08-08 15:51:42,379 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:51:44,879 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-08 15:51:44,879 - INFO - npm run dev output: el numero de elementos encontrados es:182382
+2023-08-08 15:51:45,504 - INFO - npm run dev output: Tiempo de consulta: 3134 ms
+2023-08-08 15:51:45,504 - INFO - npm run dev output: Uso de memoria: 199889200 bytes
+2023-08-08 15:51:45,520 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:51:47,895 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-08 15:51:47,895 - INFO - npm run dev output: el numero de elementos encontrados es:182382
+2023-08-08 15:51:48,535 - INFO - npm run dev output: Tiempo de consulta: 3036 ms
+2023-08-08 15:51:48,535 - INFO - npm run dev output: Uso de memoria: 359651176 bytes
+2023-08-08 15:51:48,567 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 15:51:50,895 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-08 15:51:50,895 - INFO - npm run dev output: el numero de elementos encontrados es:182382
+2023-08-08 15:51:51,520 - INFO - npm run dev output: Tiempo de consulta: 2980 ms
+2023-08-08 15:51:51,520 - INFO - npm run dev output: Uso de memoria: 297900992 bytes
+2023-08-08 16:00:26,794 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-08 16:00:29,435 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-08 16:00:29,435 - INFO - npm run dev output: el numero de elementos encontrados es:182404
+2023-08-08 16:00:30,059 - INFO - npm run dev output: Tiempo de consulta: 3286 ms
+2023-08-08 16:00:30,059 - INFO - npm run dev output: Uso de memoria: 198093616 bytes
+2023-08-09 18:26:25,042 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-09 18:26:28,401 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-09 18:26:28,401 - INFO - npm run dev output: el numero de elementos encontrados es:183704
+2023-08-09 18:26:29,058 - INFO - npm run dev output: Tiempo de consulta: 4043 ms
+2023-08-09 18:26:29,058 - INFO - npm run dev output: Uso de memoria: 201250016 bytes
+2023-08-09 18:26:29,136 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-09 18:26:31,589 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-09 18:26:31,589 - INFO - npm run dev output: el numero de elementos encontrados es:183704
+2023-08-09 18:26:32,229 - INFO - npm run dev output: Tiempo de consulta: 3159 ms
+2023-08-09 18:26:32,229 - INFO - npm run dev output: Uso de memoria: 362379464 bytes
+2023-08-09 18:26:32,245 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-09 18:26:34,573 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-09 18:26:34,573 - INFO - npm run dev output: el numero de elementos encontrados es:183704
+2023-08-09 18:26:35,198 - INFO - npm run dev output: Tiempo de consulta: 2978 ms
+2023-08-09 18:26:35,198 - INFO - npm run dev output: Uso de memoria: 300371712 bytes
+2023-08-09 18:31:04,361 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-09 18:31:06,861 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-09 18:31:06,861 - INFO - npm run dev output: el numero de elementos encontrados es:183706
+2023-08-09 18:31:07,486 - INFO - npm run dev output: Tiempo de consulta: 3140 ms
+2023-08-09 18:31:07,486 - INFO - npm run dev output: Uso de memoria: 201747576 bytes
+2023-08-09 18:32:59,824 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-09 18:33:02,277 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-09 18:33:02,277 - INFO - npm run dev output: el numero de elementos encontrados es:183708
+2023-08-09 18:33:02,902 - INFO - npm run dev output: Tiempo de consulta: 3100 ms
+2023-08-09 18:33:02,902 - INFO - npm run dev output: Uso de memoria: 201830824 bytes
+2023-08-15 10:00:27,242 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 10:00:27,242 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 10:00:30,742 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-15 10:00:30,742 - INFO - npm run dev output: el numero de elementos encontrados es:10850
+2023-08-15 10:00:30,820 - INFO - npm run dev output: Tiempo de consulta: 3601 ms
+2023-08-15 10:00:30,820 - INFO - npm run dev output: Uso de memoria: 213098320 bytes
+2023-08-15 10:00:32,117 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-15 10:00:32,117 - INFO - npm run dev output: el numero de elementos encontrados es:69502
+2023-08-15 10:00:32,773 - INFO - npm run dev output: Tiempo de consulta: 5563 ms
+2023-08-15 10:00:32,773 - INFO - npm run dev output: Uso de memoria: 451583400 bytes
+2023-08-15 10:00:32,773 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 10:00:32,773 - INFO - npm run dev output: Tiempo de consulta: 1616 ms
+2023-08-15 10:00:32,773 - INFO - npm run dev output: Uso de memoria: 451620608 bytes
+2023-08-15 10:00:33,538 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 10:00:34,289 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-15 10:00:34,289 - INFO - npm run dev output: el numero de elementos encontrados es:10850
+2023-08-15 10:00:34,367 - INFO - npm run dev output: Tiempo de consulta: 855 ms
+2023-08-15 10:00:34,367 - INFO - npm run dev output: Uso de memoria: 367056032 bytes
+2023-08-15 10:01:13,380 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 10:01:17,834 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-15 10:01:17,834 - INFO - npm run dev output: el numero de elementos encontrados es:69502
+2023-08-15 10:01:18,459 - INFO - npm run dev output: Tiempo de consulta: 5072 ms
+2023-08-15 10:01:18,459 - INFO - npm run dev output: Uso de memoria: 408535408 bytes
+2023-08-15 10:01:19,849 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 10:01:24,209 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-15 10:01:24,209 - INFO - npm run dev output: el numero de elementos encontrados es:69502
+2023-08-15 10:01:24,865 - INFO - npm run dev output: Tiempo de consulta: 5038 ms
+2023-08-15 10:01:24,865 - INFO - npm run dev output: Uso de memoria: 408882896 bytes
+2023-08-15 10:07:54,144 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 10:07:58,769 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-15 10:07:58,769 - INFO - npm run dev output: el numero de elementos encontrados es:69502
+2023-08-15 10:07:59,410 - INFO - npm run dev output: Tiempo de consulta: 5283 ms
+2023-08-15 10:07:59,410 - INFO - npm run dev output: Uso de memoria: 410224816 bytes
+2023-08-15 10:10:54,383 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 10:10:58,914 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-15 10:10:58,914 - INFO - npm run dev output: el numero de elementos encontrados es:69542
+2023-08-15 10:10:59,539 - INFO - npm run dev output: Tiempo de consulta: 5181 ms
+2023-08-15 10:10:59,539 - INFO - npm run dev output: Uso de memoria: 409679304 bytes
+2023-08-15 12:36:41,159 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 12:36:42,143 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-15 12:36:42,143 - INFO - npm run dev output: el numero de elementos encontrados es:10879
+2023-08-15 12:36:42,222 - INFO - npm run dev output: Tiempo de consulta: 1096 ms
+2023-08-15 12:36:42,222 - INFO - npm run dev output: Uso de memoria: 100763184 bytes
+2023-08-15 12:36:54,659 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-15 12:36:59,878 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-15 12:36:59,878 - INFO - npm run dev output: el numero de elementos encontrados es:69730
+2023-08-15 12:37:00,566 - INFO - npm run dev output: Tiempo de consulta: 5913 ms
+2023-08-15 12:37:00,566 - INFO - npm run dev output: Uso de memoria: 412205136 bytes
+2023-08-25 11:08:14,663 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-25 11:08:24,866 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-25 11:08:24,866 - INFO - npm run dev output: el numero de elementos encontrados es:195658
+2023-08-25 11:08:25,538 - INFO - npm run dev output: Tiempo de consulta: 10925 ms
+2023-08-25 11:08:25,538 - INFO - npm run dev output: Uso de memoria: 214178296 bytes
+2023-08-25 11:08:27,975 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-25 11:08:30,819 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-25 11:08:30,819 - INFO - npm run dev output: el numero de elementos encontrados es:195658
+2023-08-25 11:08:31,647 - INFO - npm run dev output: Tiempo de consulta: 3691 ms
+2023-08-25 11:08:31,804 - INFO - npm run dev output: Uso de memoria: 383176808 bytes
+2023-08-25 11:08:44,710 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-25 11:08:47,413 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-25 11:08:47,413 - INFO - npm run dev output: el numero de elementos encontrados es:195658
+2023-08-25 11:08:48,225 - INFO - npm run dev output: Tiempo de consulta: 3523 ms
+2023-08-25 11:08:48,225 - INFO - npm run dev output: Uso de memoria: 214791632 bytes
+2023-08-25 11:09:10,678 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-25 11:09:13,553 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-25 11:09:13,553 - INFO - npm run dev output: el numero de elementos encontrados es:195658
+2023-08-25 11:09:14,224 - INFO - npm run dev output: Tiempo de consulta: 3566 ms
+2023-08-25 11:09:14,224 - INFO - npm run dev output: Uso de memoria: 215870112 bytes
+2023-08-25 11:14:52,002 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-25 11:14:54,784 - INFO - npm run dev output: Busqueda de contabilidad en la base 2023,
+2023-08-25 11:14:54,784 - INFO - npm run dev output: el numero de elementos encontrados es:195664
+2023-08-25 11:14:55,456 - INFO - npm run dev output: Tiempo de consulta: 3477 ms
+2023-08-25 11:14:55,456 - INFO - npm run dev output: Uso de memoria: 209178872 bytes
+2023-08-28 09:50:11,891 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-28 09:50:12,930 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-28 09:50:12,930 - INFO - npm run dev output: el numero de elementos encontrados es:11494
+2023-08-28 09:50:13,017 - INFO - npm run dev output: Tiempo de consulta: 1151 ms
+2023-08-28 09:50:13,017 - INFO - npm run dev output: Uso de memoria: 101054552 bytes
+2023-08-28 13:42:56,682 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-28 13:42:56,686 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-28 13:42:58,074 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-28 13:42:58,074 - INFO - npm run dev output: el numero de elementos encontrados es:11494
+2023-08-28 13:42:58,155 - INFO - npm run dev output: Tiempo de consulta: 1470 ms
+2023-08-28 13:42:58,155 - INFO - npm run dev output: Uso de memoria: 122434440 bytes
+2023-08-28 13:43:01,799 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-28 13:43:01,799 - INFO - npm run dev output: el numero de elementos encontrados es:73589
+2023-08-28 13:43:02,503 - INFO - npm run dev output: Tiempo de consulta: 5821 ms
+2023-08-28 13:43:02,503 - INFO - npm run dev output: Uso de memoria: 433044320 bytes
+2023-08-28 16:34:10,093 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-28 16:34:11,749 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-28 16:34:11,749 - INFO - npm run dev output: el numero de elementos encontrados es:11507
+2023-08-28 16:34:11,829 - INFO - npm run dev output: Tiempo de consulta: 1758 ms
+2023-08-28 16:34:11,829 - INFO - npm run dev output: Uso de memoria: 102838136 bytes
+2023-08-28 16:34:15,191 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-28 16:34:21,942 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-28 16:34:21,942 - INFO - npm run dev output: el numero de elementos encontrados es:73703
+2023-08-28 16:34:22,617 - INFO - npm run dev output: Tiempo de consulta: 7427 ms
+2023-08-28 16:34:22,617 - INFO - npm run dev output: Uso de memoria: 428723880 bytes
+2023-08-31 09:37:08,089 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-31 09:37:09,948 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-08-31 09:37:15,394 - INFO - npm run dev output: el numero de elementos encontrados es:11775
+2023-08-31 09:37:15,394 - INFO - npm run dev output: Tiempo de consulta: 1979 ms
+2023-08-31 09:37:15,394 - INFO - npm run dev output: Uso de memoria: 103444160 bytes
+2023-08-31 09:37:15,394 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-08-31 09:37:21,597 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-08-31 09:37:21,597 - INFO - npm run dev output: el numero de elementos encontrados es:74617
+2023-08-31 09:37:22,301 - INFO - npm run dev output: Tiempo de consulta: 7487 ms
+2023-08-31 09:37:22,301 - INFO - npm run dev output: Uso de memoria: 433706040 bytes
+2023-09-12 08:15:47,691 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-12 08:15:47,691 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-12 08:15:51,160 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-09-12 08:15:51,160 - INFO - npm run dev output: el numero de elementos encontrados es:12254
+2023-09-12 08:15:51,254 - INFO - npm run dev output: Tiempo de consulta: 3555 ms
+2023-09-12 08:15:51,254 - INFO - npm run dev output: Uso de memoria: 218440328 bytes
+2023-09-12 08:15:53,004 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-09-12 08:15:53,004 - INFO - npm run dev output: el numero de elementos encontrados es:78401
+2023-09-12 08:15:53,707 - INFO - npm run dev output: Tiempo de consulta: 6034 ms
+2023-09-12 08:15:53,707 - INFO - npm run dev output: Uso de memoria: 453629320 bytes
+2023-09-12 08:30:14,507 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-12 08:30:14,507 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-12 08:30:18,163 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-09-12 08:30:18,163 - INFO - npm run dev output: el numero de elementos encontrados es:12263
+2023-09-12 08:30:18,241 - INFO - npm run dev output: Tiempo de consulta: 3748 ms
+2023-09-12 08:30:18,241 - INFO - npm run dev output: Uso de memoria: 236606376 bytes
+2023-09-12 08:30:19,663 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-09-12 08:30:19,663 - INFO - npm run dev output: el numero de elementos encontrados es:78401
+2023-09-12 08:30:20,366 - INFO - npm run dev output: Tiempo de consulta: 5879 ms
+2023-09-12 08:30:20,366 - INFO - npm run dev output: Uso de memoria: 454159408 bytes
+2023-09-12 08:46:29,733 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-12 08:46:29,874 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-12 08:46:33,390 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-09-12 08:46:33,390 - INFO - npm run dev output: el numero de elementos encontrados es:12263
+2023-09-12 08:46:33,468 - INFO - npm run dev output: Tiempo de consulta: 3753 ms
+2023-09-12 08:46:33,468 - INFO - npm run dev output: Uso de memoria: 219477752 bytes
+2023-09-12 08:46:35,265 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-09-12 08:46:35,265 - INFO - npm run dev output: el numero de elementos encontrados es:78404
+2023-09-12 08:46:35,983 - INFO - npm run dev output: Tiempo de consulta: 6111 ms
+2023-09-12 08:46:35,983 - INFO - npm run dev output: Uso de memoria: 457302560 bytes
+2023-09-12 08:50:58,049 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-12 08:50:58,096 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-12 08:50:58,846 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-09-12 08:50:58,846 - INFO - npm run dev output: el numero de elementos encontrados es:12263
+2023-09-12 08:50:58,940 - INFO - npm run dev output: Tiempo de consulta: 899 ms
+2023-09-12 08:50:58,940 - INFO - npm run dev output: Uso de memoria: 106691608 bytes
+2023-09-12 08:51:03,065 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-09-12 08:51:03,065 - INFO - npm run dev output: el numero de elementos encontrados es:78408
+2023-09-12 08:51:03,768 - INFO - npm run dev output: Tiempo de consulta: 5676 ms
+2023-09-12 08:51:03,768 - INFO - npm run dev output: Uso de memoria: 455746272 bytes
+2023-09-25 12:01:34,765 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-25 12:01:36,015 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-09-25 12:01:36,015 - INFO - npm run dev output: el numero de elementos encontrados es:12855
+2023-09-25 12:01:36,109 - INFO - npm run dev output: Tiempo de consulta: 1366 ms
+2023-09-25 12:01:36,109 - INFO - npm run dev output: Uso de memoria: 109953480 bytes
+2023-09-25 12:01:42,958 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-09-25 12:01:48,230 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-09-25 12:01:48,230 - INFO - npm run dev output: el numero de elementos encontrados es:82391
+2023-09-25 12:01:48,964 - INFO - npm run dev output: Tiempo de consulta: 6003 ms
+2023-09-25 12:01:48,964 - INFO - npm run dev output: Uso de memoria: 480532264 bytes
+2023-10-02 10:08:55,328 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-10-02 10:08:56,546 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-10-02 10:08:56,546 - INFO - npm run dev output: el numero de elementos encontrados es:13190
+2023-10-02 10:08:56,640 - INFO - npm run dev output: Tiempo de consulta: 1337 ms
+2023-10-02 10:08:56,640 - INFO - npm run dev output: Uso de memoria: 110967960 bytes
+2023-10-02 10:09:00,662 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-10-02 10:09:06,019 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-10-02 10:09:06,019 - INFO - npm run dev output: el numero de elementos encontrados es:84135
+2023-10-02 10:09:06,769 - INFO - npm run dev output: Tiempo de consulta: 6106 ms
+2023-10-02 10:09:06,769 - INFO - npm run dev output: Uso de memoria: 489642456 bytes
+2023-10-04 07:13:27,876 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-10-04 07:13:27,876 - INFO - npm run dev output: Conexion a 2023 establecida!
+2023-10-04 07:13:32,611 - INFO - npm run dev output: Busqueda de compras en la base 2023,
+2023-10-04 07:13:32,611 - INFO - npm run dev output: el numero de elementos encontrados es:13341
+2023-10-04 07:13:32,705 - INFO - npm run dev output: Tiempo de consulta: 4851 ms
+2023-10-04 07:13:32,705 - INFO - npm run dev output: Uso de memoria: 272603576 bytes
+2023-10-04 07:13:33,830 - INFO - npm run dev output: Busqueda de ventas en la base 2023,
+2023-10-04 07:13:33,830 - INFO - npm run dev output: el numero de elementos encontrados es:85039
+2023-10-04 07:13:34,642 - INFO - npm run dev output: Tiempo de consulta: 6792 ms
+2023-10-04 07:13:34,642 - INFO - npm run dev output: Uso de memoria: 541173072 bytes
