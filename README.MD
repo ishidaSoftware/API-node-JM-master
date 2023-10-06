@@ -18,4 +18,15 @@ _Asegurarse de tener instalados los siguientes programas antes de comenzar:_
 ```bash
 npm install
 
+## Configuración
 
+1. Crear un archivo `.env` en el directorio raíz para configurar las variables de entorno.
+
+```bash
+DB_USER = 
+DB_PASSWORD = Rtl8139
+DB_SERVER = 10.40.49.2\IA2012
+DB_DATABASE = JM2023
+DB_DATABASE_2021 = JM2021
+DB_DATABASE_2019 = JM2019
+PORT = 4550
