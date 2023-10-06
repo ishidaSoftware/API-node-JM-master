@@ -17,7 +17,7 @@ _Asegurarse de tener instalados los siguientes programas antes de comenzar:_
 
 ```bash
 npm install
-```
+```bash
 
 ## Configuración
 
