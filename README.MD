@@ -8,7 +8,7 @@ _Asegurarse de tener instalados los siguientes programas antes de comenzar:_
 
 - Node.js: [Descargar Node.js](https://nodejs.org/)
 - npm (Administrador de paquetes de Node.js): Viene incluido con Node.js, pero verificar la versión ejecutando `npm -v`.
-- Python: [Descargar Node.js](https://www.python.org/downloads/), pero verificar la versión ejecutando `python --version`.
+- Python: [Descargar Python](https://www.python.org/downloads/), pero verificar la versión ejecutando `python --version`.
 
 ## Instalación 📄
 
