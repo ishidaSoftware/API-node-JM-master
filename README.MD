@@ -32,3 +32,21 @@ DB_DATABASE_2021 = JM2021
 DB_DATABASE_2019 = JM2019
 PORT = 4550
 ```
+2. Dirigirse hacia `src/index.js` y cambiar la ip por defecto , por la ip del equipo en el que se va a instalar
+
+
+app.listen(app.get('port'),"192.168.1.18")
+```
+3. Si se hizo los pasos anteriormente debe salir el siguiente mensaje en consola:
+
+> api-node-jm@1.0.0 dev
+> nodemon src --exec babel-node src/index.js
+
+```
+[nodemon] 2.0.22
+[nodemon] to restart at any time, enter `rs`    
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json      
+[nodemon] starting `babel-node src src/index.js`
+server on port 4550
+```
