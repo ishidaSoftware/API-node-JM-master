@@ -7,18 +7,23 @@ _Api desarrollada para Almacenes Juan Montero para consumir vistas creadas en Sq
 _Asegurarse de tener instalados los siguientes programas antes de comenzar:_
 
 - Node.js: [Descargar Node.js](https://nodejs.org/)
-- npm (Administrador de paquetes de Node.js): Viene incluido con Node.js, pero verifica la versión ejecutando `npm -v`.
+- npm (Administrador de paquetes de Node.js): Viene incluido con Node.js, pero verificar la versión ejecutando `npm -v`.
+- Python: [Descargar Node.js](https://www.python.org/downloads/), pero verificar la versión ejecutando `python --version`.
 
 ## Instalación 📄
 
-1. Abrir una terminal y navegar hasta el directorio donde se encuentra.
+1. Abrir una terminal y navegar hasta el directorio donde se encuentra la aplicacion.
 
 2. Ejecutar el siguiente comando para instalar las dependencias:
 
 ```
 npm install
 ```
+```
+pip install pywin32
+```
 
+3. 
 ## Configuración
 
 1. Crear un archivo `.env` en el directorio raíz para configurar las variables de entorno.
@@ -57,3 +62,4 @@ Entonces la url de la consulta se construye de la siguiente manera
 ```
 http://192.168.1.18:4550/ventas/2023/year/2023
 ```
+
