@@ -34,7 +34,7 @@ PORT = 4550
 ```
 2. Dirigirse hacia `src/index.js` y cambiar la ip por defecto , por la ip del equipo en el que se va a instalar
 
-
+```
 app.listen(app.get('port'),"192.168.1.18")
 ```
 3. Si se hizo los pasos anteriormente debe salir el siguiente mensaje en consola:
