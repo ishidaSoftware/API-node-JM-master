@@ -17,7 +17,7 @@ Abrir el archivo `NpmService.py` y asegúrarse de configurar adecuadamente las r
 
 3. **Instalar Dependencias**:
 
-Abrir una terminal en el directorio y ejecutar
+Abrir una terminal como `ADMINISTRADOR` en el directorio y ejecutar
 
 ```
 pip install pywin32
