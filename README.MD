@@ -39,14 +39,21 @@ app.listen(app.get('port'),"192.168.1.18")
 ```
 3. Si se hizo los pasos anteriormente debe salir el siguiente mensaje en consola:
 
+```
 > api-node-jm@1.0.0 dev
 > nodemon src --exec babel-node src/index.js
-
-```
 [nodemon] 2.0.22
 [nodemon] to restart at any time, enter `rs`    
 [nodemon] watching path(s): *.*
 [nodemon] watching extensions: js,mjs,json      
 [nodemon] starting `babel-node src src/index.js`
 server on port 4550
+```
+4. Consultamos la api de ventas de la base jm2023
+Entonces la url de la consulta se construye de la siguiente manera
+
+- ip:puerto/ruta
+
+```
+http://192.168.1.18:4550/ventas/2023/year/2023
 ```
