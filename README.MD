@@ -19,11 +19,7 @@ _Asegurarse de tener instalados los siguientes programas antes de comenzar:_
 ```
 npm install
 ```
-```
-pip install pywin32
-```
 
-3. 
 ## Configuración
 
 1. Crear un archivo `.env` en el directorio raíz para configurar las variables de entorno.
@@ -42,7 +38,13 @@ PORT = 4550
 ```
 app.listen(app.get('port'),"192.168.1.18")
 ```
-3. Si se hizo los pasos anteriormente debe salir el siguiente mensaje en consola:
+3. Ejecutar el siguiente comando para probar la api 
+
+```
+npm run dev
+```
+
+Si se hizo los pasos correctamente debe salir el siguiente mensaje en consola:
 
 ```
 > api-node-jm@1.0.0 dev
@@ -62,4 +64,3 @@ Entonces la url de la consulta se construye de la siguiente manera
 ```
 http://192.168.1.18:4550/ventas/2023/year/2023
 ```
-
