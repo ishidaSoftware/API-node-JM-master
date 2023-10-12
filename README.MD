@@ -64,3 +64,13 @@ Entonces la url de la consulta se construye de la siguiente manera
 ```
 http://192.168.1.18:4550/ventas/2023/year/2023
 ```
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo se estructura este proyecto en la [Wiki](https://github.com/ishidaSoftware/API-node-JM-master/wiki)
+
+
+## Autores ✒️
+
+
+* **Carlos Soria** - *Trabajo Inicial - Documentación* - [Carlos Soria](https://github.com/caeduardo99)
